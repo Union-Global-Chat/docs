@@ -1,5 +1,15 @@
 site_name: Union Global Chat
+site_description: Union global chat公式ドキュメントです。
+site_author: tuna2134
+copyright: Union Global Chat
 site_url: https://union-global-chat.github.io/docs/
+
+repo_name: Union-Global-Chat/docs
+repo_url: https://github.com/Union-Global-Chat/docs
 
 theme:
   name: material
+
+nav:
+  - Api Reference:
+    - リファレンス: reference.md
