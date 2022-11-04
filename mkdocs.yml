@@ -1,4 +1,5 @@
 site_name: Union Global Chat
+site_url: https://union-global-chat.github.io/docs/
 
 theme:
   name: material
