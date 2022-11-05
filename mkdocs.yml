@@ -16,3 +16,4 @@ nav:
   - Version 2:
     - メッセージ: v2/messages.md
     - ユーザー: v2/users.md
+    - チャンネル: v2/channel.md
