@@ -7,7 +7,15 @@
 | content       | string | メッセージコンテンツ |
 | id            | string | メッセージID |
 | clean_content | string | メッセージコンテンツからメンションを無効化したメッセージ |
-| reference     | ?[MessageReference](/docs/v2/messages#返信オブジェクト) | メッセージの返信内容 |
+| reference     | ?[MessageReference](/docs/v2/messages#Referenceオブジェクト) | メッセージの返信内容 |
+
+## Referenceオブジェクト
+
+| name       | type   | description |
+| :---       | :---   | :---        |
+| channel_id | string | チャンネルID  |
+| guild_id   | string | サーバーID    |
+| message_id | string | メッセージID  |
 
 ## メッセージを送信
 
