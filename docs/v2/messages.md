@@ -7,7 +7,7 @@
 | content       | string | メッセージコンテンツ |
 | id            | string | メッセージID |
 | clean_content | string | メッセージコンテンツからメンションを無効化したメッセージ |
-| reference     | ?[MessageReference](/docs/v2/messages#Referenceオブジェクト) | メッセージの返信内容 |
+| reference     | ?[MessageReference Object](/docs/v2/messages#Referenceオブジェクト) | メッセージの返信内容 |
 
 ## Referenceオブジェクト
 
