@@ -13,3 +13,5 @@ theme:
 nav:
   - Api Reference:
     - リファレンス: reference.md
+  - Version 2:
+    - メッセージ: messages.md
