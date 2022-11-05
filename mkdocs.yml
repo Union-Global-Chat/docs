@@ -14,4 +14,4 @@ nav:
   - Api Reference:
     - リファレンス: reference.md
   - Version 2:
-    - メッセージ: messages.md
+    - メッセージ: v2/messages.md
