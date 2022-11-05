@@ -8,6 +8,8 @@
 | id            | string | メッセージID |
 | clean_content | string | メッセージコンテンツからメンションを無効化したメッセージ |
 | reference     | ?[MessageReference Object](/docs/v2/messages#Referenceオブジェクト) | メッセージの返信内容 |
+| attachment    | ?[Attachment Object](/docs/v2/attachment#オブジェクト) | ファイル |
+| embeds        | ?[Embed Object](https://discord.com/developers/docs/resources/channel#embed-object)[] | 埋め込みリスト |
 
 ## Referenceオブジェクト
 
