@@ -6,6 +6,7 @@
 
 Json payload
 
-| name   | type                                       | description |
-| :---   | :---                                       | :---        |
-| author | [Author Object](/docs/v2/users#オブジェクト) | ユーザー      |
+| name    | type                                          | description |
+| :---    | :---                                          | :---        |
+| author  | [Author Object](/docs/v2/users#オブジェクト)    | ユーザー      |
+| channel | [Channel Object](/docs/v2/channel#オブジェクト) | チャンネル    |
