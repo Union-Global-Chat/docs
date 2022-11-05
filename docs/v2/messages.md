@@ -6,6 +6,6 @@
 
 Json payload
 
-| name   | type                                  | description |
-| :--:   | :--:                                  | :--:        |
+| name   | type                                 | description |
+| :---   | :---                                 | :---        |
 | author | [Author Object](v2/users#オブジェクト) | ユーザー      |
