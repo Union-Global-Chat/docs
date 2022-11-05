@@ -18,3 +18,4 @@ nav:
     - ユーザー: v2/users.md
     - チャンネル: v2/channel.md
     - ギルド: v2/guild.md
+    - ファイル: v2/attachment.md
