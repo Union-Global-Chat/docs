@@ -8,4 +8,4 @@ Json payload
 
 | name   | type                                  | description |
 | :--:   | :--:                                  | :--:        |
-| author | [Author Object](/v2/users#オブジェクト) | ユーザー      |
+| author | [Author Object](v2/users#オブジェクト) | ユーザー      |
