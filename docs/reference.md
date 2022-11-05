@@ -10,6 +10,8 @@ v2に関することしかかれていません。
 
 ## Responseベース
 
+`data`では結果が渡されます。
+
 | name    | type    | description    |
 | :--:    | :--:    | :--:           |
 | success | boolean | 成功したか      |
@@ -19,4 +21,8 @@ v2に関することしかかれていません。
 
 ## 認証
 
-ヘッダー    
+ヘッダー
+
+```
+Authorization: Bearer {Token}
+```
